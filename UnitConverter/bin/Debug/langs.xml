@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Langs>
+  <Item key="ar" value="العربية" />
+  <Item key="az" value="Azərbaycan" />
+  <Item key="be" value="Беларуская" />
+  <Item key="bg" value="Български" />
+  <Item key="bs" value="Bosanski" />
+  <Item key="ca" value="Català" />
+  <Item key="cs" value="Český" />
+  <Item key="da" value="Dansk" />
+  <Item key="de" value="Deutsch" />
+  <Item key="el" value="Ελληνική" />
+  <Item key="en" value="English" />
+  <Item key="es" value="Español" />
+  <Item key="et" value="Eesti" />
+  <Item key="fa" value="فارسی" />
+  <Item key="fi" value="Suomen" />
+  <Item key="fr" value="Français" />
+  <Item key="he" value="עברית" />
+  <Item key="hr" value="Hrvatski" />
+  <Item key="hu" value="Magyar" />
+  <Item key="hy" value="Հայերեն" />
+  <Item key="id" value="Indonesian" />
+  <Item key="is" value="Íslensk" />
+  <Item key="it" value="Italiano" />
+  <Item key="ja" value="日本語" />
+  <Item key="ka" value="ქართული" />
+  <Item key="kk" value="Қазақ" />
+  <Item key="ko" value="한국어" />
+  <Item key="ky" value="Киргиз" />
+  <Item key="lt" value="Lietuvių" />
+  <Item key="lv" value="Latviešu" />
+  <Item key="mk" value="Македонски" />
+  <Item key="ms" value="Melayu" />
+  <Item key="mt" value="Malti" />
+  <Item key="nl" value="Nederlandse" />
+  <Item key="no" value="Norsk" />
+  <Item key="pl" value="Polski" />
+  <Item key="pt" value="Portuguesa" />
+  <Item key="ro" value="Română" />
+  <Item key="ru" value="Русский" />
+  <Item key="sk" value="Slovenský" />
+  <Item key="sl" value="Slovenski" />
+  <Item key="sq" value="Shqiptare" />
+  <Item key="sr" value="Руски" />
+  <Item key="sv" value="Svenska" />
+  <Item key="tg" value="Тоҷикӣ" />
+  <Item key="th" value="ไทย" />
+  <Item key="tr" value="Türk" />
+  <Item key="tt" value="Татар теле" />
+  <Item key="uk" value="Український" />
+  <Item key="vi" value="Việt nam" />
+  <Item key="zh" value="中国人" />
+</Langs>

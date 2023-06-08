@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quantities>
+  <Quantity name="Weight">
+    <Unit offset="0,001">mg</Unit> <!-- UnitA * offset(UnitA) / offset(UnitB) -->
+    <Unit offset="1">g</Unit>
+    <Unit offset="10">dkg</Unit>
+    <Unit offset="1000">Kg</Unit>
+    <Unit offset="100000">q</Unit>
+    <Unit offset="1000000">t</Unit>
+  </Quantity>
+  <Quantity name="Memory capacity">
+    <Unit offset="1">B</Unit>
+    <Unit offset="1000">kB</Unit>
+    <Unit offset="1000000">MB</Unit>
+    <Unit offset="1000000000">GB</Unit>
+    <Unit offset="1000000000000">TB</Unit>
+    <Unit offset="1000000000000000">PB</Unit> <!-- Pre Misaza :@ :D -->
+    <Unit offset="1000000000000000000">EB</Unit>
+    <Unit offset="1000000000000000000000">ZB</Unit>
+    <Unit offset="1000000000000000000000000">YB</Unit>
+  </Quantity>
+  <Quantity name="Length">
+    <Unit offset="0,000000001">nm</Unit>
+    <Unit offset="0,000001">μm</Unit>
+    <Unit offset="0,001">mm</Unit>
+    <Unit offset="0,01">cm</Unit>
+    <Unit offset="0,1">dm</Unit>
+    <Unit offset="1">m</Unit>
+    <Unit offset="1000">Km</Unit>
+    <Unit offset="1609,344">m(mile)</Unit>
+  </Quantity>
+</Quantities>
+
